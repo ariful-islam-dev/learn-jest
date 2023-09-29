@@ -1,4 +1,9 @@
 {
+  "name": "learn-jest",
+  "license": "ISC",
+  "author": {
+    "name": "Ariful Islam"
+  },
   "scripts": {
     "test": "jest"
   },
